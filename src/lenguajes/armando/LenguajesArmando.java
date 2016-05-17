@@ -18,6 +18,7 @@ public class LenguajesArmando {
         // TODO code application logic here
         
         System.out.println("Mi primer programa de lenguajes");
+        System.out.println("esta es otra linea");
     }
     
 }
